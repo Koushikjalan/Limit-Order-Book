@@ -1,0 +1,11 @@
+build/
+venv/
+*.o
+*.obj
+*.exe
+*.log
+IMPLEMENTATION.md
+answers.md
+response.md
+.specstory/
+docs/concurrency.md
